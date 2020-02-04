@@ -1,1 +1,0 @@
-## This folder contains public production build of project for hosting on Github pages.
